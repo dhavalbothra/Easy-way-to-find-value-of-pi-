@@ -1,4 +1,4 @@
-# easy-way-to-find-value-of-pi-
+# Easy-way-to-find-value-of-pi-
 Hi this is a simple way to find value of pi
 I have used the logic that if x=3+sin(3);x1=x+sin(x) if this process is continued till infinite this will give the value of pi
 The precision of this procces roughly triples
