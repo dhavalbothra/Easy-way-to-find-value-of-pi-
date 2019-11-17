@@ -1,8 +1,8 @@
 import time
 from decimal import *
 
-x=int(input("Enter no. of : "))
-y=input("Enter name of file with .txt")
+x=int(input("Enter no. of digits: "))
+y=input("Enter name of file with .txt :")
 
 getcontext().prec = x+1
 
