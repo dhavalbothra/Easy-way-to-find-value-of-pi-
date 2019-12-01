@@ -25,13 +25,15 @@ def sin(x):
     sign *= Decimal(-1)
   return sin
 
-i = 1
-while(i < 50):
-  pi += Decimal(sin(pi))
-  i += 1
+def pi():
+  i = 1
+  while(i < 50):
+    pi += Decimal(sin(pi))
+    i += 1
+retrn(pi)
 
 f = open(y, "w")
-f.write(str(pi))
+f.write(str(pi()))
 f.close()
 
 b=time.time()
