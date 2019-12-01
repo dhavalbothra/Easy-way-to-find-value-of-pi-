@@ -9,3 +9,4 @@ Here There are two options to use math library of sine or make our own method to
 Here is the link of the formula i have used for sine https://www.mathsisfun.com/algebra/taylor-series.html.
 The reason i have done this is that the math library is not very accurate.
 Hope you like my repo.(Please star it !!)
+file:///home/as/Desktop/sG2mY.png
